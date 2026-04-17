@@ -1,0 +1,14 @@
+# Node modules
+# If you have separate frontend/backend folders:
+frontend/node_modules/
+backend/node_modules/
+# Environment variables
+# If you have separate frontend/backend folders:
+# frontend/.env
+backend/.env
+.env
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+node_modules/
